@@ -1,0 +1,10 @@
+{
+  "resultCode": "0",
+  "errorMsg": "",
+  "result": {
+    "deptCode": "000000",
+    "isLogin": "1",
+    "salesCode": "4125445685",
+    "salesName": "张三"
+  }
+}
